@@ -1,6 +1,0 @@
-1.setup a decimal integer£¬(max-29)
-length of INTIAL_DELAY:[21]
-2.setup a decimal integer£¬(max-16)
-length of CHAIN_DEALY:[16]
-3.setup the hierarchy of the IP's instance without top module: (eg. instance1/instance2/)
-name of hierarchy:[use_core/]
